@@ -80,5 +80,4 @@ class MemberController {
                 .body(entityModel);
 
     }
-
 }
