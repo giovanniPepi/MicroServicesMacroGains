@@ -1,6 +1,5 @@
-package org.giovanni.MicroServicesMacroGains;
+package org.giovanni.MicroServicesMacroGains.client;
 
-import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;
 import org.springframework.stereotype.Component;

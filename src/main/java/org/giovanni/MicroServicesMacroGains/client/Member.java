@@ -1,4 +1,4 @@
-package org.giovanni.MicroServicesMacroGains;
+package org.giovanni.MicroServicesMacroGains.client;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

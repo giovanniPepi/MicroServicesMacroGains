@@ -1,4 +1,4 @@
-package org.giovanni.MicroServicesMacroGains;
+package org.giovanni.MicroServicesMacroGains.client;
 
 class MemberNotFoundException extends RuntimeException {
     MemberNotFoundException(Long id) {

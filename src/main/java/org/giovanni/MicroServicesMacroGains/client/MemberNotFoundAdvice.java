@@ -1,4 +1,4 @@
-package org.giovanni.MicroServicesMacroGains;
+package org.giovanni.MicroServicesMacroGains.client;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

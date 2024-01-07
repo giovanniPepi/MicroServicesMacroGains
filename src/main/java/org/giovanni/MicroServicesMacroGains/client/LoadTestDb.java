@@ -1,4 +1,4 @@
-package org.giovanni.MicroServicesMacroGains;
+package org.giovanni.MicroServicesMacroGains.client;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
